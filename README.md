@@ -1,10 +1,9 @@
 ![GitHub markdown](https://github.com/SMARTlab-Purdue/SMARTmBOT/blob/main/media/wiki/SMARTmBOT_GitHub.jpg)
 
 
-This repository is to introduce how to use Robot Operating System 2 (ROS2) on Raspberry pi 4 installed Ubuntu 20.04 LTS server version. The main goal of this project is to build a new opensource mobile robot platform, called SMARTmBOT.
-The SMARTmBOT is for studying multi-robot algorithms, so it has differential wheels, 8-ToF sensors, 2-line sensors, and a pi-camera.
+This repository is a ROS2 workspace for the [SMARTmBOT](https://github.com/SMARTlab-Purdue/SMARTmBOT). If you want to know more details about the SMARTmBOT, please visit our offical github page; [https://github.com/SMARTlab-Purdue/SMARTmBOT](https://github.com/SMARTlab-Purdue/SMARTmBOT)
 
-We believe that you can easily develop the mobile robot platform if you carefully follow the tutorials. If you have issues and find errors, please let us know. We will update it as soon as possible.
+And if you have any questions or found issues on this repostiory, please let me know. We will fix and update them as soon as possible. 
 
 
 
