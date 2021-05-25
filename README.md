@@ -3,7 +3,7 @@
 
 The goal of this repository is to share a ROS2 workspace for the SMARTmBOT. If you want to know more details about the SMARTmBOT, please visit our official GitHub page at https://github.com/SMARTlab-Purdue/SMARTmBOT.
 
-And if you have any questions or find any issues in this repository, please feel free to contact us. We will fix and update them as soon as possible. 
+If you have any questions or find any issues in this repository, please feel free to contact us. We will fix and update them as soon as possible. 
 
 
 
